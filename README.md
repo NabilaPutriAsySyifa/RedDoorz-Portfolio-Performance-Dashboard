@@ -332,4 +332,6 @@ Terima kasih kepada:
 
 © 2025 Tim Safari Data | Proyek Akhir Visualisasi Data
 
+**[🚀 Try Live Demo](https://dashboard-reddoorz-analysis.streamlit.app/)**
+
 </div>
