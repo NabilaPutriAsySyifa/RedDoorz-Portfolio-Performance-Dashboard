@@ -6,7 +6,7 @@
 
 **Dashboard Analisis Bisnis untuk Optimasi Portofolio Properti RedDoorz**
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://dashboard-reddoorz-analysis.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://reddoorz-portfolio-performance-dashboard.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
@@ -332,6 +332,6 @@ Terima kasih kepada:
 
 © 2025 Tim Safari Data | Proyek Akhir Visualisasi Data
 
-**[🚀 Try Live Demo](https://dashboard-reddoorz-analysis.streamlit.app/)**
+**[🚀 Try Live Demo](https://reddoorz-portfolio-performance-dashboard.streamlit.app/)**
 
 </div>
