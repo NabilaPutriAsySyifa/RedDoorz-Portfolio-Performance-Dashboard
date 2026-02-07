@@ -9,6 +9,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://dashboard-reddoorz-analysis.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
 </div>
 
@@ -312,6 +313,15 @@ Terima kasih kepada:
 
 ---
 
+### **Tools & Technologies**
+- **Python 3.8+** - Data processing & analysis
+- **Streamlit** - Interactive dashboard framework
+- **Plotly** - Advanced data visualization
+- **Pandas & NumPy** - Data manipulation
+
+  ---
+
+  
 <div align="center">
 
 **Dashboard ini dibuat oleh Tim Safari Data 🐱**
